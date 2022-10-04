@@ -1,4 +1,4 @@
-# 👨‍💻 동의과학대학교 컴퓨터소프트웨어과 소개 웹앱 어플리케이션 <br> (csw-info-app)
+# 👨‍💻 동의과학대학교 컴퓨터소프트웨어과 소개 웹앱 <br> (csw-info-app)
 
 [학과 소개 웹 페이지 바로 가기](https://SeulJaeHyuk.github.io/csw-info-app/) <br>
 
@@ -12,5 +12,5 @@
 
 
 ## 📱, 🖥 레이아웃
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_1.jpg)
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_2.jpg)
+![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/main.jpg)
+![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/main2.jpg)

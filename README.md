@@ -12,5 +12,5 @@
 
 
 ## 📱, 🖥 레이아웃
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_1.png)
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_2.png)
+![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_1.jpg)
+![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/image/readme_2.jpg)
